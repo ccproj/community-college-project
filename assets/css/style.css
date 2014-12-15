@@ -56,6 +56,17 @@ p{
 	background-color:white;
 }
 
+#cont{
+	margin-top: 30px;
+	margin-right: 20px;
+}
+
+#cr{
+	font-family: 'Oswald', sans-serif;
+	font-size:10px;
+	color:black;
+}
+
 a:link{
 	text-decoration: none;
 	color:#2ECCFA;
