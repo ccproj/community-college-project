@@ -83,9 +83,9 @@ p{
         bottom: 0;
         right: 0;
 }
-#em1{
+.em1{
         font-family: 'Oswald', sans-serif;
-	font-size:4px;
+	font-size:12px;
 	color:black;	
 }
 a:link{
