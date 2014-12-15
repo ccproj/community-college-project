@@ -57,11 +57,22 @@ p{
 }
 
 #cont{
-	margin-top: 30px;
+	margin-top: 50px;
 	margin-right: 20px;
 }
 
 #cr{
+	font-family: 'Oswald', sans-serif;
+	font-size:10px;
+	color:black;
+}
+
+#mail{
+	margin-top: 0px;
+	margin-left: 100px;
+}
+
+#em{
 	font-family: 'Oswald', sans-serif;
 	font-size:10px;
 	color:black;
